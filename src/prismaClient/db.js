@@ -1,3 +1,4 @@
+//?source https://vercel.com/guides/nextjs-prisma-postgres
 import { PrismaClient } from "@prisma/client";
 
 const prismaClientSingleton = () => {
