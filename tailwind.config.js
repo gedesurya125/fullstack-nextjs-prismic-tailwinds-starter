@@ -29,6 +29,9 @@ module.exports = {
         "container-tablet-landscape": "100rem",
         "container-desktop": "130rem",
       },
+      gridTemplateColumns: {
+        24: "repeat(24, 1fr)",
+      },
     },
   },
   // https://tailwindcss.com/docs/plugins
