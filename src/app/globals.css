@@ -9,7 +9,7 @@
   --target-desktop-screen-size: 1440px;
   --normalize-rem-value: 10px;
 
-  --responsive-grow-ratio: 8;
+  --responsive-grow-ratio: 8; /* 1-10, 10 is equal to linear grow*/
   --responsive-grow-phone: calc(var(--responsive-grow-ratio) / 375);
   --responsive-grow-tablet-portrait: calc(var(--responsive-grow-ratio) / 834);
   --responsive-grow-tablet-landscape: calc(var(--responsive-grow-ratio) / 1194);
