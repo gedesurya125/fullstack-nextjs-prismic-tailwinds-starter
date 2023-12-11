@@ -13,6 +13,9 @@ module.exports = {
       tabletLandscape: "1000px",
       desktop: "1400px",
     },
+    fontFamily: {
+      body: ["var(--font-inter)"],
+    },
     fontSize: {
       sm: ["1rem", "1.5em"],
       md: ["2rem", "1.35em"],
